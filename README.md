@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Ahnaf Zarif ... </h2>
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=zarifc573&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ###
 <div>
 
@@ -36,13 +45,16 @@
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/>|
 
-### Languages:
+### CMS:
 | Webflow | Ghost | Shopify |
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ghost/ghost-original-wordmark.svg" title="Ghost"  alt="Ghost" width="55" height="55"/> |  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" title="Shopify" alt="Shopify" width="55" height="55"/> |
-  
+  ### Design:
+| Figma | Photoshop | Illustrator | Spline |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="55" height="55"/> |  <img src="https://refer-production.s3.us-east-2.amazonaws.com/favicon/spline.design/d474ea8f-6bbc-4483-bfca-7e1939a7a10b.jpg" title="Spline" alt="Spline" width="55" height="55"/>|
 </div>
-
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zarifc573&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarifc573&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
