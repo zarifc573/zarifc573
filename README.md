@@ -30,7 +30,7 @@
 
 
 
-### Backend, Databases, and Backend as a Service(BaaS):
+### Backend, Databases and Backend as a Service(BaaS):
 
 | NodeJS | Express | MongoDB | GraphQL | Firebase | Supabase | Appwrite |
 |----------|----------|----------|----------|----------|----------|----------|
