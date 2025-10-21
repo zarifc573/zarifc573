@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ahnaf Zarif ... </h2>
 
 ###
 <div>
@@ -52,6 +51,7 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zarifc573/zarifc573/output/github-contribution-grid-snake.svg">
 
 ###
+
 
 
 
