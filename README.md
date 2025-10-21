@@ -1,15 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ahnaf Zarif ... </h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zarifc573&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zarifc573&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zarifc573&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zarifc573&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-    
-
 ###
 <div>
 
@@ -100,3 +90,4 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zarifc573/zarifc573/output/github-contribution-grid-snake.svg">
 
 ###
+
